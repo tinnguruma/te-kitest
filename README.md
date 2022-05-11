@@ -1,3 +1,3 @@
 # te-kitest
-https://tinnguruma.github.io/te-kitest/1-4.html
+https://tinnguruma.github.io/te-kitest/1-4/count.html
 
